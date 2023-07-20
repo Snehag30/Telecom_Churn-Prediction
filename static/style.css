@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto+Slab:wght@300;400&family=Ubuntu:wght@500&display=swap');
+
+*{
+    font-family: 'Roboto Slab', serif;
+    margin : 0px;
+    padding : 0px;
+    box-sizing : border-box;
+    text-decoration : none;
+}
+body{
+    background-color: #e6e6e6;
+}
+.header{
+    /* border: 2px solid black; */
+    text-align: center;
+    padding: 7px;
+    width: 75%;
+    margin-top: 40px;
+    margin-left: 160px;
+    box-shadow: 0.4rem 0.4rem 1rem #ccc, -0.4rem -0.4rem 1rem #fff;
+}
+.header2{
+    
+    text-align: center;
+    padding: 7px;
+    width: 78%;
+    margin-bottom: 20px;
+    box-shadow: 0.4rem 0.4rem 1rem #ccc, -0.4rem -0.4rem 1rem #fff;
+    
+}
+.container{
+    margin-top: 30px;
+    
+}
+.form-box{
+    display: flex;
+    justify-content: center;
+    padding: 3px;
+}
+
+label {
+    color: #b86c6c;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  /* Styling the radio button */
+input[type="radio"] {
+    margin-right: 7px;
+}
+
+.output{
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.output textarea{
+   
+        width: 100%;
+        height: 150px;
+        padding: 12px 20px;
+        box-sizing: border-box;
+        border: 2px solid #ccc;
+        border-radius: 4px;
+        background-color: #f8f8f8;
+        font-size: 16px;
+        resize: none;
+        margin-bottom: 10px;
+      
+}
+
+.but{
+    border: none;
+    padding: 2%;
+   font-size: 95%;
+    border-radius: 18%;
+    font-weight: bold;
+    text-align: center;
+    box-shadow: 0.4rem 0.4rem 1rem #ccc, -0.4rem -0.4rem 1rem #fff;
+}
+.but:hover{
+    box-shadow: var(--box-shadow-inset);
+    color: green;
+}
