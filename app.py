@@ -88,13 +88,11 @@ def predict():
     print(df_2.columns)
     
     
-    new_df__dummies = pd.get_dummies(df_2[['gender', 'SeniorCitizen', 'Partner', 'Dependents', 'PhoneService',
+    new_df__dummies = pd.get_dummies(df_2[['gender', 'Partner', 'Dependents', 'PhoneService',
            'MultipleLines', 'InternetService', 'OnlineSecurity', 'OnlineBackup',
            'DeviceProtection', 'TechSupport', 'StreamingTV', 'StreamingMovies',
            'Contract', 'PaperlessBilling', 'PaymentMethod','tenure_group']])
 
-   
-    
     
    
     
