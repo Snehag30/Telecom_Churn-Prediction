@@ -8,7 +8,7 @@ Churn analytics provides valuable capabilities to predict customer churn and als
 
 ## Decision Cycle of Subscriber
 
-![decision cycle](static/Screenshot%20(200).pngScreenshot (200).png)
+![decision cycle]([static/Screenshot%20(200).pngScreenshot (200).png](https://github.com/Snehag30/Telecom_Churn-Prediction/blob/main/static/Screenshot%20(200).png))
 
 
 ## Project Flow
@@ -71,8 +71,8 @@ Performing sentiment analysis on customer feedback received through surveys or s
 
 ## Frontend
 
-![App Screenshot](static/Screenshot%20(211).pngScreenshot (211).png)
+![App Screenshot]([static/Screenshot%20(211).pngScreenshot (211).png](https://github.com/Snehag30/Telecom_Churn-Prediction/blob/main/static/Screenshot%20(211).png))
 
-![App Screenshot](static/Screenshot%20(212).pngScreenshot (212).png)
+![App Screenshot]([static/Screenshot%20(212).pngScreenshot (212).png](https://github.com/Snehag30/Telecom_Churn-Prediction/blob/main/static/Screenshot%20(212).png)https://github.com/Snehag30/Telecom_Churn-Prediction/blob/main/static/Screenshot%20(212).png)
 
-![App Screenshot](static/Screenshot%20(213).pngScreenshot (213).png)
+![App Screenshot]([static/Screenshot%20(213).pngScreenshot (213).png](https://github.com/Snehag30/Telecom_Churn-Prediction/blob/main/static/Screenshot%20(213).png)https://github.com/Snehag30/Telecom_Churn-Prediction/blob/main/static/Screenshot%20(213).png)
